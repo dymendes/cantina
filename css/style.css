@@ -4,6 +4,12 @@
   font-family: "Lato", sans-serif;
 }
 
+.img-banner {
+  width: 1920px;
+  height: 720px;
+  object-fit: cover;
+}
+
 .btn {
   border-radius: 0;
 }
